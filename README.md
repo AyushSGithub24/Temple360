@@ -8,7 +8,7 @@ This is an Android application for viewing 720° panoramic photos and panoramic 
 With it, you can quickly open the panoramic images you have captured.
 
 You can also categorize your panoramas to make browsing them easier.
-####Usage & Instructions
+#### Usage & Instructions
 
 You can download the [DEMO](https://github.com/imengyu/VR720/raw/master/app/release/app-release.apk) to see how it works.
 
